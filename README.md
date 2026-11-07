@@ -1,133 +1,65 @@
-<!--
-  Tejas Chavan | GitHub Profile README
-  Neon green terminal aesthetic inspired by the supplied reference.
--->
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=760&lines=TEJAS+CHAVAN;SOFTWARE+DEVELOPER+IN+PROGRESS;BUILD.+TEST.+SHIP.+REPEAT." alt="Animated heading" />
+<img src="assets/banner.svg" alt="Tejas Chavan - full-stack developer, AI and automation" width="100%"/>
 
-<p>
-  <b>Engineering student</b> · Full-stack development · Open source · Automation
-</p>
+<a href="https://www.linkedin.com/in/tejaschavan1907"><img src="https://img.shields.io/badge/LinkedIn-tejaschavan1907-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<img src="https://img.shields.io/badge/Open%20to-internships%20%7C%20remote%20%7C%20part--time-F5A524?style=flat-square" alt="Open to internships, remote and part-time roles"/>
+<img src="https://img.shields.io/badge/Based%20in-Mumbai%2C%20India-3DD6C6?style=flat-square" alt="Mumbai, India"/>
 
-<a href="https://github.com/codedbytejas">
-  <img src="https://img.shields.io/badge/GitHub-codedbytejas-0d1117?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub profile" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=codedbytejas&style=for-the-badge&color=39ff14&label=PROFILE+VIEWS" alt="Profile views" />
+<br/><br/>
+
+<img src="assets/terminal.svg" alt="Terminal session summarising Tejas's current roles, stack and recent projects" width="100%"/>
 
 </div>
-
----
-
-## `whoami`
-
-- 🎓 Engineering student who learns by building and shipping real projects.
-- 💻 Interested in web development, AI-enabled tools, automation, and developer workflows.
-- 🤝 Enjoy working with teams, solving issues, and contributing to open source.
-- 🧪 Focused on clean code, useful interfaces, testing, and continuous improvement.
-
-> `CURRENT MODE:` Learn → Build → Test → Improve
-
-## `tech-stack`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,streamlit,mysql,git,github,vscode,postman&theme=dark&perline=7" alt="Technology icons" />
-
-</div>
-
-## `ls ./projects`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📄 SmartPDF Excel Automation
-A Streamlit workflow concept to extract PDF data, preview and validate it, then export structured Excel files.
-
-**Focus:** data extraction · validation · repeatable workflows
-
-</td>
-<td width="50%" valign="top">
-
-### 🧾 Clearshift ERP
-Collaborative ERP finance-module work involving accounting workflows and issue-based development.
-
-**Focus:** team delivery · pull requests · QA
-
-[Repository](https://github.com/SamAltmanBT29/Clearshift-ERP)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🍽️ Foodie — Website
-A responsive food website built to practice frontend layout, navigation, and UI fundamentals.
-
-[Explore projects](https://github.com/codedbytejas?tab=repositories)
-
-</td>
-<td width="50%" valign="top">
-
-### 🖥️ CPU Scheduling Simulator
-An operating-systems learning project focused on CPU scheduling logic and understandable output.
-
-**Focus:** C++ · operating systems · algorithms
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 🛠️ Sorolens — Open-source contribution
-Worked on watchdog notification UX, including contract selection, severity filtering, and a test-send flow.
-
-[Repository](https://github.com/sorolens/sorolens)
-
-</td>
-</tr>
-</table>
-
-## `github --stats`
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=codedbytejas&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbytejas&layout=compact&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9" alt="Top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=codedbytejas&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak" />
+## Featured work
 
-</div>
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **FashionFlow AI** | Fashion-design SaaS for the Indian market: 2D canvas editor, Razorpay billing, OpenAI features | Next.js 15, TypeScript, Prisma, PostgreSQL |
+| **Job Application Portal** | Role-based hiring app: candidates upload PDF resumes, recruiters see only their own postings | React, Node, Express, MongoDB, JWT |
+| **Mother Dairy D2C** | Direct-to-consumer store with row-level security, cart, payments and admin dashboard | Next.js 14, Supabase, Razorpay |
+| **[CodeGraph](https://github.com/codegraph-org/CodeGraph)** | Open-source code-intelligence tool that visualises Stellar/Soroban codebases | TypeScript monorepo |
+| **ArbMatrix** | Interactive Bellman-Ford visualiser that finds currency-arbitrage cycles | React, React Flow, Recharts |
 
-## `contribution-graph`
+<!-- Add repo links: wrap each project name like **[FashionFlow AI](https://github.com/codedbytejas/<repo>)** -->
+
+## Open source and collaboration
+
+- Maintainer on [codegraph-org/CodeGraph](https://github.com/codegraph-org/CodeGraph), with a scoped issue tracker and public roadmap
+- Contributor to [Clearshift ERP](https://github.com/SamAltmanBT29/Clearshift-ERP), covering team delivery, pull requests and QA
+- Contributor to Sorolens, working on watchdog notification UX
+
+## Tech stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## Certifications
+
+HackerRank: SQL (Basic, Intermediate, Advanced), Node.js (Basic, Intermediate), JavaScript (Basic, Intermediate) | AWS S3 Basic | Cisco Networking Basics
+
+## Contribution activity
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codedbytejas&bg_color=0d1117&color=39ff14&line=39ff14&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
-
+<img src="https://raw.githubusercontent.com/codedbytejas/codedbytejas/output/github-snake-dark.svg" alt="Contribution graph snake animation" width="100%"/>
 </div>
-
-## `currently-learning`
-
-- Writing maintainable code and building better interfaces.
-- Improving API integration, input validation, and error handling.
-- Testing edge cases and making applications more reliable.
-- Collaborating through Git branches, issues, and pull requests.
-
-## `connect`
-
-<div align="center">
-
-<a href="https://github.com/codedbytejas">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-0d1117?style=for-the-badge&logo=github&logoColor=39ff14" alt="Follow on GitHub" />
-</a>
 
 <br/>
 
-<i>“Build. Break. Learn. Improve. Repeat.”</i>
-
-</div>
+<div align="center"><sub>Learn, build, test, improve.</sub></div>
