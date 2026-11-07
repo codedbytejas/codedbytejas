@@ -2,9 +2,9 @@
 
 <img src="assets/neofetch.svg" alt="Neofetch-style profile card for Tejas Chavan: roles, stack, hobbies and GitHub stats" width="100%"/>
 
-<a href="https://www.linkedin.com/in/tejaschavan1907"><img src="https://img.shields.io/badge/LinkedIn-tejaschavan1907-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<img src="https://img.shields.io/badge/Open%20to-internships%20%7C%20remote%20%7C%20part--time-F5A524?style=flat-square" alt="Open to internships, remote and part-time roles"/>
-<img src="https://img.shields.io/badge/Based%20in-Mumbai%2C%20India-3DD6C6?style=flat-square" alt="Mumbai, India"/>
+<a href="https://www.linkedin.com/in/tejaschavan1907"><img src="https://img.shields.io/badge/LinkedIn-tejaschavan1907-000000?style=flat-square&logo=linkedin&logoColor=00FF66&labelColor=000000" alt="LinkedIn"/></a>
+<img src="https://img.shields.io/badge/Open%20to-internships%20%7C%20remote%20%7C%20part--time-000000?style=flat-square&logo=github&logoColor=00FF66&labelColor=000000" alt="Open to internships, remote and part-time roles"/>
+<img src="https://img.shields.io/badge/Based%20in-Mumbai%2C%20India-000000?style=flat-square&logo=googlemaps&logoColor=00FF66&labelColor=000000" alt="Mumbai, India"/>
 
 <br/><br/>
 
@@ -32,21 +32,21 @@
 
 ## Tech stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=00FF66)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=00FF66)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=00FF66)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=00FF66)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=00FF66)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=00FF66)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=00FF66)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=00FF66)
+![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=00FF66)
+![Prisma](https://img.shields.io/badge/Prisma-000000?style=flat-square&logo=prisma&logoColor=00FF66)
+![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=00FF66)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00FF66)
+![C++](https://img.shields.io/badge/C%2B%2B-000000?style=flat-square&logo=cplusplus&logoColor=00FF66)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-000000?style=flat-square&logo=amazons3&logoColor=00FF66)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=00FF66)
 
 ## Certifications
 
