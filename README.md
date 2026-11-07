@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Tejas Chavan - full-stack developer, AI and automation" width="100%"/>
+<img src="assets/neofetch.svg" alt="Neofetch-style profile card for Tejas Chavan: roles, stack, hobbies and GitHub stats" width="100%"/>
 
 <a href="https://www.linkedin.com/in/tejaschavan1907"><img src="https://img.shields.io/badge/LinkedIn-tejaschavan1907-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <img src="https://img.shields.io/badge/Open%20to-internships%20%7C%20remote%20%7C%20part--time-F5A524?style=flat-square" alt="Open to internships, remote and part-time roles"/>
